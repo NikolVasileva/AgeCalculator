@@ -22,5 +22,5 @@ The user clicks the "Calculate Age" button.<br>
 The application calculates the age and displays it on the page.<br>
 If the input is invalid (e.g., empty or unrealistic), an error message is shown instead.<br>
 
-Link: <a href="https://nikolvasileva.github.io/AgeCalculator/" target="_blank">https://nikolvasileva.github.io/AgeCalculator/</a>
+Link: <a href="https://nikolvasileva.github.io/AgeCalculator/" target="_blank">https://nikolvasileva.github.io/AgeCalculator/</a><br>
 💼 Connect with me on <a href="https://2ly.link/23Pyp">LinkedIn</a>
